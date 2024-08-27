@@ -1,7 +1,4 @@
 # NLP-Chatbot
-
-Here’s a rephrased version of the README file, including a brief introduction:
-
 ---
 
 ## Introduction
